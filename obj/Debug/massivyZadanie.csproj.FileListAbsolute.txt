@@ -1,0 +1,7 @@
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\obj\Debug\massivyZadanie.csproj.AssemblyReference.cache
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\obj\Debug\massivyZadanie.csproj.CoreCompileInputs.cache
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\bin\Debug\massivyZadanie.exe.config
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\bin\Debug\massivyZadanie.exe
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\bin\Debug\massivyZadanie.pdb
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\obj\Debug\massivyZadanie.exe
+C:\Users\синус\Desktop\Практические ОАиП\massivyZadanie\obj\Debug\massivyZadanie.pdb
